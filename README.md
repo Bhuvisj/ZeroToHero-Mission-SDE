@@ -1,2 +1,1 @@
 # ZeroToHero-Mission-SDE
-# MasterPlan
